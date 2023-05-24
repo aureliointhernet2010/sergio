@@ -67,3 +67,11 @@ label{
 	position:relative;
 	top:1px;
 }
+
+@media (max-width: 412px){
+    body{
+        background-image: url('https://images.pexels.com/photos/669996/pexels-photo-669996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+        background-size: 100vh;
+    }
+
+}
